@@ -1,5 +1,7 @@
 {
-  "notified": [],
+  "notified": [
+    "5"
+  ],
   "snoozed": false,
   "update_offset": 310530934
 }
